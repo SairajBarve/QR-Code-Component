@@ -1,1 +1,1 @@
-# QR-Code-Component
+In this project I have created a simple qr code component using my css skills!
